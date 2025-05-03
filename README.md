@@ -48,22 +48,6 @@ This project aims to provide a comprehensive suite of scripts that facilitate us
 
 ---
 
-## 📌 Features
-
-|      | Component       | Details                              |
-| :--- | :-------------- | :----------------------------------- |
-| ⚙️  | **Architecture**  | <ul><li>Single-layer shell scripts</li><li>Utilizes Bash for scripting</li></ul> |
-| 🔩 | **Code Quality**  | <ul><li>Consistent indentation</li><li>Clear variable naming conventions</li><li>Use of comments for clarity</li></ul> |
-| 📄 | **Documentation** | <ul><li>Basic README file present</li><li>No extensive inline documentation</li></ul> |
-| 🔌 | **Integrations**  | <ul><li>Reads from <code>lottery_results.txt</code></li><li>Shell commands for execution</li></ul> |
-| 🧩 | **Modularity**    | <ul><li>Functions defined for repetitive tasks</li><li>Separation of concerns in script logic</li></ul> |
-| 🧪 | **Testing**       | <ul><li>No formal testing framework</li><li>Manual testing required for script execution</li></ul> |
-| ⚡️  | **Performance**   | <ul><li>Efficient for small datasets</li><li>Performance may degrade with large files</li></ul> |
-| 🛡️ | **Security**      | <ul><li>Basic input validation</li><li>Potential risks with file handling</li></ul> |
-| 📦 | **Dependencies**  | <ul><li>Requires <code>lottery_results.txt</code></li><li>Shell environment for execution</li></ul> |
-| 🚀 | **Scalability**   | <ul><li>Limited scalability due to single-threaded execution</li><li>Not designed for high-load scenarios</li></ul> |
-
-
 ### Explanation of the Table Components:
 
 - **Architecture**: The project is structured as a series of Bash scripts, which are straightforward and easy to follow.
