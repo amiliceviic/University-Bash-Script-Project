@@ -29,7 +29,6 @@
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
     - [Usage](#-usage)
-    - [Testing](#-testing)
 - [Features](#-features)
 
 ---
@@ -121,16 +120,6 @@ Run the project with:
 
 ```sh
 ./{entrypoint}
-```
-
-### 🧪 Testing
-
-University-bash-script-project uses the {__test_framework__} test framework. Run the test suite with:
-
-**Using [bash](https://www.gnu.org/software/bash/):**
-
-```sh
-bats *.bats
 ```
 
 ---
