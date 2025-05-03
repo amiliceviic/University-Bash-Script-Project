@@ -29,7 +29,6 @@
     - [Prerequisites](#-prerequisites)
     - [Installation](#-installation)
     - [Usage](#-usage)
-- [Features](#-features)
 
 ---
 
@@ -45,21 +44,6 @@ This project aims to provide a comprehensive suite of scripts that facilitate us
 - ❓ **Interactive Trivia Quiz:** Engages users with random questions from an API, enhancing learning and entertainment.
 - 🔒 **Password Validation and Encryption:** Enforces strong password policies and secures sensitive information using SHA-256 encryption.
 - 🎟️ **Lottery Game Validation:** Validates user input for a lottery game, ensuring correct format and providing feedback on matches.
-
----
-
-### Explanation of the Table Components:
-
-- **Architecture**: The project is structured as a series of Bash scripts, which are straightforward and easy to follow.
-- **Code Quality**: The code adheres to good practices with consistent formatting and naming, making it readable.
-- **Documentation**: While there is a README, it lacks comprehensive documentation, which could help users understand the project better.
-- **Integrations**: The project integrates with a text file for input, showcasing its reliance on external data.
-- **Modularity**: Functions are used to encapsulate logic, promoting reusability and clarity.
-- **Testing**: There is no automated testing, which could lead to issues if changes are made without verification.
-- **Performance**: The scripts perform well with small datasets but may struggle with larger files due to their linear processing nature.
-- **Security**: Basic security measures are in place, but there are potential vulnerabilities, especially related to file handling.
-- **Dependencies**: The project has minimal dependencies, primarily relying on a text file and a shell environment.
-- **Scalability**: The design does not support scaling well, as it is not optimized for concurrent execution or large data processing.
 
 ---
 
