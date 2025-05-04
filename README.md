@@ -89,7 +89,6 @@ Run the project with:
 ```sh
 ./{entrypoint}
 ```
-
 ---
 
 <div align="left"><a href="#top">⬆ Return</a></div>
