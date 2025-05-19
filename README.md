@@ -3,7 +3,6 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-
 # UNIVERSITY-BASH-SCRIPT-PROJECT
 
 <em>Unlock Insights, Elevate Your Game Experience</em>
